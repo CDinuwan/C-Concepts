@@ -1,0 +1,7 @@
+C:\Users\Chanuka Dinuwan\Desktop\C# Concepts\Revision\Revision\obj\Debug\Revision.csprojAssemblyReference.cache
+C:\Users\Chanuka Dinuwan\Desktop\C# Concepts\Revision\Revision\obj\Debug\Revision.csproj.CoreCompileInputs.cache
+C:\Users\Chanuka Dinuwan\Desktop\C# Concepts\Revision\Revision\bin\Debug\Revision.exe.config
+C:\Users\Chanuka Dinuwan\Desktop\C# Concepts\Revision\Revision\bin\Debug\Revision.exe
+C:\Users\Chanuka Dinuwan\Desktop\C# Concepts\Revision\Revision\bin\Debug\Revision.pdb
+C:\Users\Chanuka Dinuwan\Desktop\C# Concepts\Revision\Revision\obj\Debug\Revision.exe
+C:\Users\Chanuka Dinuwan\Desktop\C# Concepts\Revision\Revision\obj\Debug\Revision.pdb

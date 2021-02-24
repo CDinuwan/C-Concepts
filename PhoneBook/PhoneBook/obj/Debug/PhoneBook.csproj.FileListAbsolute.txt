@@ -1,0 +1,10 @@
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Chanuka Dinuwan\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
